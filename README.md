@@ -71,4 +71,4 @@ python GameSnake.py
 ---
 
 ## 📜 License
-This project is open-source and free to use under the [MIT License](LICENSE). Feel free to modify and enjoy!
+This project is open-source and available under the [MIT License](LICENSE). Feel free to modify and share!
