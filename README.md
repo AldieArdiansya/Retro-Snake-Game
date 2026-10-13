@@ -67,3 +67,8 @@ python GameSnake.py
 ├── highscore.txt       # Local persistent high score file
 └── README.md           # Project documentation
 ```
+
+---
+
+## 📜 License
+This project is open-source and available under the [MIT License](LICENSE). Feel free to modify and share!
